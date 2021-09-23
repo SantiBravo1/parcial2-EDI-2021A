@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define R 3
+
 int main()
 {
 float matriz[R][R];
